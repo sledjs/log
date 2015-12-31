@@ -1,0 +1,16 @@
+{
+  "name": "@sled/log",
+  "version": "0.0.1",
+  "description": "it just log",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sledjs/log.git"
+  },
+  "author": "Damian Martyniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sledjs/log/issues"
+  },
+  "homepage": "https://github.com/sledjs/log#readme"
+}
